@@ -10,10 +10,8 @@ scanf("%d", &age);
 
 if (age==myAge)
 {
-    printf("Owaoo, We are the same age");
+    printf("Owaoo, We are the same age\n");
 }
-
-
     return 0;
     
 }
